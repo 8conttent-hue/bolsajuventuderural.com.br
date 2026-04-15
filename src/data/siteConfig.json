@@ -1,0 +1,53 @@
+{
+  "name": "BOLSAJUVENTUDERURAL",
+  "slug": "bolsajuventuderural.com.br",
+  "description": "O site bolsa juventude rural tem o foco de levar educação para crianças e jovens das mais diversas áreas rurais do nosso Brasil, de forma simples e gratuita. A nossa criação faz parte parte do movimento de dialogar com a sociedade mais carentee, ao mesmo tempo, participar da disputa pelos sentidos da educação no espaço rural. Convidamos a todos que defendem um ensino gratuito de qualidade a nos acompanharem. Oferecemos conteúdo gratuito e de qualidade, atividades pedagógicas durante a quarente, para que as crianças e jovens não se afastem do ambiente escolar e continuem se preparando para o futuro! Todo o nosso conteúdo pode ser acesso através do nosso site e de forma 100% gratuita.",
+  "url": "https://bolsajuventuderural.com.br",
+  "niche": "Educação",
+  "keywords": "O site bolsa juventude rural tem o foco de levar educacao para",
+  "email": "contato@bolsajuventuderural.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "inter",
+  "fontFamily": "'Inter', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-I",
+    "hero": "Hero-A",
+    "features": "Features-J",
+    "about": "About-I",
+    "posts": "Posts-A",
+    "footer": "Footer-H",
+    "sobre": "Sobre-A",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "BOLSAJUVENTUDERURAL — Educação de Qualidade para o Campo",
+    "description": "Transformando a realidade de crianças e jovens rurais"
+  },
+  "hero": {
+    "title": "Educação de Qualidade para o Campo",
+    "subtitle": "Transformando a realidade de crianças e jovens rurais",
+    "btnText": "Comece Agora",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Destaques",
+    "items": [
+      {
+        "icon": "📚",
+        "title": "Conteúdo 100% Gratuito",
+        "desc": "Acessível a todos os jovens que desejam aprender e se desenvolver."
+      },
+      {
+        "icon": "📝",
+        "title": "Atividades Pedagógicas",
+        "desc": "Desenvolvemos atividades interativas para estimular o aprendizado durante a quarentena."
+      },
+      {
+        "icon": "🌱",
+        "title": "Foco na Educação Rural",
+        "desc": "Nós valorizamos e promovemos o conhecimento sobre o meio rural e suas especificidades."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "O Bolsa Juventude Rural é uma iniciativa dedicada a levar educação de qualidade para crianças e jovens em áreas rurais do Brasil, garantindo acesso a recursos e informações essenciais ao seu desenvolvimento.",
+    "stats": [
+      {
+        "value": "1.000+",
+        "label": "Estudantes Beneficiados"
+      },
+      {
+        "value": "50+",
+        "label": "Atividades Disponíveis"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

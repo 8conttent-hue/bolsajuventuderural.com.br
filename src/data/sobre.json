@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o BOLSAJUVENTUDERURAL"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O Bolsa Juventude Rural é uma iniciativa dedicada a levar educação de qualidade para crianças e jovens em áreas rurais do Brasil, garantindo acesso a recursos e informações essenciais ao seu desenvolvimento."
+  },
+  "content": "Acreditamos que a educação é um direito de todos, e nosso objetivo é assegurar que crianças e jovens de regiões rurais tenham acesso a um ensino de qualidade, simples e acessível, que os prepare para o futuro.",
+  "mission": "Promover a inclusão educacional no campo e atuar em prol da melhoria da qualidade de vida das comunidades rurais.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}
